@@ -17,7 +17,3 @@ val kahawaSmoke = Color(0xFFD6B59C)
 val kahawaCream = Color(0xFFDDAA78)
 val kahawaDarkGrey = Color(0xFF353439)
 val kahawaBlack = Color(0xFF1B1115)
-
-
-
-

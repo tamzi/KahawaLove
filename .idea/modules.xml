@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KahawaLove.iml" filepath="$PROJECT_DIR$/.idea/modules/KahawaLove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KahawaLove.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildConventions/KahawaLove.buildLogic.iml" filepath="$PROJECT_DIR$/.idea/modules/buildConventions/KahawaLove.buildLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kahawaLovebenchmark/KahawaLove.kahawaLovebenchmark.iml" filepath="$PROJECT_DIR$/.idea/modules/kahawaLovebenchmark/KahawaLove.kahawaLovebenchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kahawaLovebenchmark/KahawaLove.kahawaLovebenchmark.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kahawaLovebenchmark/KahawaLove.kahawaLovebenchmark.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawa/KahawaLove.mkahawa.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawademo/KahawaLove.mkahawademo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawaemoBenchmark/KahawaLove.mkahawaemoBenchmark.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawaemoBenchmark/KahawaLove.mkahawaemoBenchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkahawaemoBenchmark/KahawaLove.mkahawaemoBenchmark.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mkahawaemoBenchmark/KahawaLove.mkahawaemoBenchmark.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildLogic/convention/buildLogic.convention.iml" filepath="$PROJECT_DIR$/.idea/modules/buildLogic/convention/buildLogic.convention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildLogic/convention/buildLogic.convention.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildLogic/convention/buildLogic.convention.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildLogic/convention/buildLogic.convention.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildLogic/convention/buildLogic.convention.test.iml" />
+    </modules>
+  </component>
+</project>

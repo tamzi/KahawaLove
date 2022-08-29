@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-35:/values-v21/values-v21.xml",
+            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-39:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\784de53b2f03abb34de27d56acdcd1a5\\transformed\\core-1.7.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\b97fb51fe222d80eee7606ee1000d7fa\\transformed\\core-1.8.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

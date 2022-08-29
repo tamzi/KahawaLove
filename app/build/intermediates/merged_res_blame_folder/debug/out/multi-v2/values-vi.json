@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-35:/values-vi/values-vi.xml",
+            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-39:/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\784de53b2f03abb34de27d56acdcd1a5\\transformed\\core-1.7.0\\res\\values-vi\\values-vi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1298",
-                        "endColumns": "100",
-                        "endOffsets": "1394"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\85b8354e734d6bf81b38e726373284d3\\transformed\\ui-1.2.0-rc03\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\a897f0167b33efa0afe740be40c16449\\transformed\\ui-1.2.1\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "55,151,237,343,443,535,620,730,824,905,975,1045,1135,1226,1399",
                         "endColumns": "95,85,105,99,91,84,109,93,80,69,69,89,90,71,65",
                         "endOffsets": "146,232,338,438,530,615,725,819,900,970,1040,1130,1221,1293,1460"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\b97fb51fe222d80eee7606ee1000d7fa\\transformed\\core-1.8.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1298",
+                        "endColumns": "100",
+                        "endOffsets": "1394"
                     }
                 }
             ]

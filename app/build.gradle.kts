@@ -4,44 +4,51 @@ plugins {
 }
 
 android {
-    compileSdk 33
+    compileSdk = 33
 
     defaultConfig {
-        applicationId "com.tamzi.kahawalove"
-        minSdk 23
-        targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        applicationId = "com.tamzi.kahawalove"
+        minSdk = 21
+        targetSdk = 33
+        versionCode = 1
+        versionName = "1.0"
 
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
-            useSupportLibrary true
+            useSupportLibrary = true
         }
     }
 
     buildTypes {
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            isMinifyEnabled = false
+            proguardFiles (
+                    getDefaultProguardFile("proguard-android-optimize.txt"),
+                    "proguard-rules.pro"
+            )
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
     }
+
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = "1.8"
     }
+
     buildFeatures {
-        compose true
+        compose = true
     }
-    composeOptions {
-        kotlinCompilerExtensionVersion = "1.3.0-rc02"
-    }
+
     packagingOptions {
         resources {
-            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+            excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion = "1.2.0"
     }
 }
 

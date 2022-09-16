@@ -976,7 +976,7 @@ public class LibrariesForLibs extends AbstractExternalDependencyFactory {
             public Provider<String> getAndroidDesugarJdkLibs() { return getVersion("androidDesugarJdkLibs"); }
 
             /**
-             * Returns the version associated to this alias: androidGradlePlugin (7.2.1)
+             * Returns the version associated to this alias: androidGradlePlugin (7.2.2)
              * If the version is a rich version and that its not expressible as a
              * single version string, then an empty string is returned.
              * This version was declared in catalog libs.versions.toml
@@ -984,7 +984,7 @@ public class LibrariesForLibs extends AbstractExternalDependencyFactory {
             public Provider<String> getAndroidGradlePlugin() { return getVersion("androidGradlePlugin"); }
 
             /**
-             * Returns the version associated to this alias: androidxActivity (1.4.0)
+             * Returns the version associated to this alias: androidxActivity (1.5.1)
              * If the version is a rich version and that its not expressible as a
              * single version string, then an empty string is returned.
              * This version was declared in catalog libs.versions.toml
@@ -992,7 +992,7 @@ public class LibrariesForLibs extends AbstractExternalDependencyFactory {
             public Provider<String> getAndroidxActivity() { return getVersion("androidxActivity"); }
 
             /**
-             * Returns the version associated to this alias: androidxAppCompat (1.4.2)
+             * Returns the version associated to this alias: androidxAppCompat (1.5.0)
              * If the version is a rich version and that its not expressible as a
              * single version string, then an empty string is returned.
              * This version was declared in catalog libs.versions.toml
@@ -1040,7 +1040,7 @@ public class LibrariesForLibs extends AbstractExternalDependencyFactory {
             public Provider<String> getAndroidxCoreSplashscreen() { return getVersion("androidxCoreSplashscreen"); }
 
             /**
-             * Returns the version associated to this alias: androidxCustomView (1.0.0-rc01)
+             * Returns the version associated to this alias: androidxCustomView (1.0.0)
              * If the version is a rich version and that its not expressible as a
              * single version string, then an empty string is returned.
              * This version was declared in catalog libs.versions.toml
@@ -1232,7 +1232,7 @@ public class LibrariesForLibs extends AbstractExternalDependencyFactory {
             public Provider<String> getKotlinxCoroutines() { return getVersion("kotlinxCoroutines"); }
 
             /**
-             * Returns the version associated to this alias: kotlinxDatetime (0.3.3)
+             * Returns the version associated to this alias: kotlinxDatetime (0.4.0)
              * If the version is a rich version and that its not expressible as a
              * single version string, then an empty string is returned.
              * This version was declared in catalog libs.versions.toml
@@ -1312,7 +1312,7 @@ public class LibrariesForLibs extends AbstractExternalDependencyFactory {
             public Provider<String> getRetrofitKotlinxSerializationJson() { return getVersion("retrofitKotlinxSerializationJson"); }
 
             /**
-             * Returns the version associated to this alias: room (2.4.2)
+             * Returns the version associated to this alias: room (2.4.3)
              * If the version is a rich version and that its not expressible as a
              * single version string, then an empty string is returned.
              * This version was declared in catalog libs.versions.toml

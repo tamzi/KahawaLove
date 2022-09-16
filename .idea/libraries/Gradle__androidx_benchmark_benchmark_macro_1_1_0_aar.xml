@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.benchmark:benchmark-macro:1.1.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/614ab1bb91f05234c975820dd1658484/transformed/benchmark-macro-1.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/614ab1bb91f05234c975820dd1658484/transformed/benchmark-macro-1.1.0/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/614ab1bb91f05234c975820dd1658484/transformed/benchmark-macro-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/75c34910906f3b1869056252d79f85b1/transformed/benchmark-macro-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/75c34910906f3b1869056252d79f85b1/transformed/benchmark-macro-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/75c34910906f3b1869056252d79f85b1/transformed/benchmark-macro-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

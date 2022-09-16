@@ -5,8 +5,14 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="21"
         android:targetSdkVersion="33" />
+
+    <queries>
+        <package android:name="androidx.test.orchestrator" />
+        <package android:name="androidx.test.services" />
+        <package android:name="com.google.android.apps.common.testing.services" />
+    </queries>
 
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 
@@ -15,7 +21,6 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:debuggable="true"
-        android:extractNativeLibs="false"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -63,6 +68,9 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="androidx.activity.ComponentActivity"
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

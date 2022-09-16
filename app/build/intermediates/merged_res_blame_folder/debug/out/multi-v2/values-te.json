@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-39:/values-te/values-te.xml",
+            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-43:/values-te/values-te.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\b97fb51fe222d80eee7606ee1000d7fa\\transformed\\core-1.8.0\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1338",
-                        "endColumns": "100",
-                        "endOffsets": "1434"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\a897f0167b33efa0afe740be40c16449\\transformed\\ui-1.2.1\\res\\values-te\\values-te.xml",
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\85b8354e734d6bf81b38e726373284d3\\transformed\\ui-1.2.0-rc03\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,201,288,385,485,574,663,769,857,941,1014,1087,1171,1261,1439,1508",
                         "endColumns": "95,86,96,99,88,88,105,87,83,72,72,83,89,76,68,116",
                         "endOffsets": "196,283,380,480,569,658,764,852,936,1009,1082,1166,1256,1333,1503,1620"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\8d1b1adcd645198fb829b2cf7ac0cf07\\transformed\\core-1.8.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1338",
+                        "endColumns": "100",
+                        "endOffsets": "1434"
                     }
                 }
             ]

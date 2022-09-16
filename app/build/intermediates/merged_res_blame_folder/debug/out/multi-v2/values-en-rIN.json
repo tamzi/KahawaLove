@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-39:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-43:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\a897f0167b33efa0afe740be40c16449\\transformed\\ui-1.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,197,279,373,472,559,641,741,830,914,979,1043,1121,1203,1276,1342",
-                        "endColumns": "91,81,93,98,86,81,99,88,83,64,63,77,81,72,65,120",
-                        "endOffsets": "192,274,368,467,554,636,736,825,909,974,1038,1116,1198,1271,1337,1458"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,197,279,373,472,559,641,741,830,914,979,1043,1121,1203,1377,1443",
-                        "endColumns": "91,81,93,98,86,81,99,88,83,64,63,77,81,72,65,120",
-                        "endOffsets": "192,274,368,467,554,636,736,825,909,974,1038,1116,1198,1271,1438,1559"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\b97fb51fe222d80eee7606ee1000d7fa\\transformed\\core-1.8.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\8d1b1adcd645198fb829b2cf7ac0cf07\\transformed\\core-1.8.0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,6 +18,23 @@
                         "startOffsets": "1276",
                         "endColumns": "100",
                         "endOffsets": "1372"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\85b8354e734d6bf81b38e726373284d3\\transformed\\ui-1.2.0-rc03\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,279,373,472,559,641,741,830,914,979,1043,1121,1203,1276,1342",
+                        "endColumns": "91,81,93,98,86,81,99,88,83,64,63,77,81,72,65,120",
+                        "endOffsets": "192,274,368,467,554,636,736,825,909,974,1038,1116,1198,1271,1337,1458"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,279,373,472,559,641,741,830,914,979,1043,1121,1203,1377,1443",
+                        "endColumns": "91,81,93,98,86,81,99,88,83,64,63,77,81,72,65,120",
+                        "endOffsets": "192,274,368,467,554,636,736,825,909,974,1038,1116,1198,1271,1438,1559"
                     }
                 }
             ]

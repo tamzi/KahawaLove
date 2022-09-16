@@ -34,6 +34,7 @@ android {
     }
 
     targetProjectPath = ":app"
+    namespace = "com.tamzi.kahawalovebenchmark"
     experimentalProperties["android.experimental.self-instrumenting"] = true
 }
 

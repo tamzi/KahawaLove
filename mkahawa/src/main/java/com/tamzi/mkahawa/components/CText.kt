@@ -36,7 +36,7 @@ import com.tamzi.mkahawa.atoms.type.PoppinsRegular
 @Composable
 fun CParagraph(dParagraph: String) {
     Text(
-        text = "$dParagraph",
+        text = dParagraph,
         style = TextStyle(
             color = kahawaBlack,
             fontSize = 23.sp,

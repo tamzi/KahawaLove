@@ -38,16 +38,16 @@
                 <arg>$USER_HOME$/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1/lib/gradle-kotlin-dsl-7.5.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/wrapper/dists/gradle-7.5.1-bin/7jzzequgds1hbszbhq3npc5ng/gradle-7.5.1/lib/gradle-kotlin-dsl-tooling-models-7.5.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/7.2.2/50b664cc081b526c2a2c771626ed7e89806b63d1/gradle-7.2.2.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.7.10/ea3ee595df31d338be8135ce1ea6f78f8836ebd3/kotlin-gradle-plugin-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.7.0/5c664a6e75ae89154e3631ef6fb6d95b74463e44/kotlin-gradle-plugin-1.7.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.diffplug.spotless/spotless-plugin-gradle/6.7.2/a94824f0d6dfdebc8ef1378af6f32ae514cc8930/spotless-plugin-gradle-6.7.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.21/eeb4d60d75e9ea9c11200d52974e522793b14fba/kotlin-stdlib-jdk8-1.6.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.21/5dc3574d9b7bebfcb4ec6b10ada4aaa9e140bd0b/kotlin-reflect-1.6.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/7.2.2/45bab7da1d5a144bb0a401d3d92dc91ee5e089d4/builder-7.2.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/7.2.2/4a03ee626adf07c3fdac9e5fd03d43ecb0d53da7/builder-model-7.2.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/7.2.2/ff773057b490c477db4e46adb8f002dff1bf0c9f/gradle-api-7.2.2.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.7.10/762b2bb7063c74bb564ed7a7523446a4e7252682/kotlin-gradle-plugin-model-1.7.10.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.7.10/3b38be7ed8f8c678b13991d5b3ec99c4908d3313/kotlin-gradle-plugin-api-1.7.10.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/1.7.10/8fc54e880cf9ea73396f2844a2d3aa76bdcbcfbb/kotlin-tooling-core-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/1.7.0/4bb159ce683c51893c10e6dd86006ce72ed8cdca/kotlin-gradle-plugin-model-1.7.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.7.0/361e20f57ad4f772a9500bd795d2ab0956a91b75/kotlin-gradle-plugin-api-1.7.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/1.7.0/8fc54e880cf9ea73396f2844a2d3aa76bdcbcfbb/kotlin-tooling-core-1.7.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.diffplug.spotless/spotless-lib-extra/2.26.2/4f3fe4e991b2e386be0bc9753fc5018f5fe08beb/spotless-lib-extra-2.26.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.diffplug.spotless/spotless-lib/2.26.2/54779b48f9f745a688a0ed85f82503ee00ba5f2/spotless-lib-2.26.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.21/568c1b78a8e17a4f35b31f0a74e2916095ed74c2/kotlin-stdlib-jdk7-1.6.21.jar</arg>
@@ -58,11 +58,11 @@
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apkzlib/7.2.2/dea3c50cf709649fccb03ed2f936901e7b8d1c8f/apkzlib-7.2.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.1/a99500cf6eea30535eeac6be73899d048f8d12a8/asm-9.1.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.7.10/2f0fbe380f54a395d99e75558c21924ef262cc8e/kotlin-native-utils-1.7.10.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-project-model/1.7.10/a393b70222ebad45abb2e0eb273a7cac9deb4df9/kotlin-project-model-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.7.0/d3e9a6f19ffad631d686523709939a20632ba295/kotlin-native-utils-1.7.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-project-model/1.7.0/e048320d1bc516909c5c5034adf33928c4987dee/kotlin-project-model-1.7.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/1.7.10/fdcfe10a398c931a5770ca45cffdd245112ca949/kotlin-util-io-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/1.7.0/d56995b7c3a460e15892b8bb992a23e8f2288b6f/kotlin-util-io-1.7.0.jar</arg>
               </args>
             </stringArg>
             <stringArg name="destination" arg="$MODULE_DIR$/../../../../buildLogic/convention/build/classes/kotlin/main" />
@@ -72,6 +72,7 @@
             <stringArg name="languageVersion" arg="1.4" />
           </stringArguments>
           <arrayArguments>
+            <arrayArg name="friendPaths" />
             <arrayArg name="pluginClasspaths">
               <args>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.6.21/ab52f6af29c00a8a9c89ea2b34b5f4d27960bd3f/kotlin-scripting-jvm-1.6.21.jar</arg>
@@ -321,16 +322,16 @@
       </library>
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:gradle:7.2.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.diffplug.spotless:spotless-plugin-gradle:6.7.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:builder:7.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:builder-model:7.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:gradle-api:7.2.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.7.10" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.7.10" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.7.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.7.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.diffplug.spotless:spotless-lib-extra:2.26.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.diffplug.spotless:spotless-lib:2.26.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21" level="project" />
@@ -341,8 +342,8 @@
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:apkzlib:7.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.squareup:javawriter:2.5.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.ow2.asm:asm:9.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.7.10" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-project-model:1.7.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-project-model:1.7.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
     <orderEntry type="module-library" scope="PROVIDED">
       <library name="Gradle: org.jetbrains:annotations:13.0">
@@ -357,6 +358,6 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-util-io:1.7.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-util-io:1.7.0" level="project" />
   </component>
 </module>

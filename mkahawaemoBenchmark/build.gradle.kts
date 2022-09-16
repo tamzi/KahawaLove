@@ -34,6 +34,7 @@ android {
     }
 
     targetProjectPath = ":mkahawademo"
+    namespace = "com.tamzi.mkahawaemobenchmark"
     experimentalProperties["android.experimental.self-instrumenting"] = true
 }
 

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-39:/values-et/values-et.xml",
+            "outputFile": "com.tamzi.kahawalove.app-mergeDebugResources-43:/values-et/values-et.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\a897f0167b33efa0afe740be40c16449\\transformed\\ui-1.2.1\\res\\values-et\\values-et.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,198,278,374,469,551,629,727,818,902,970,1036,1118,1203,1275,1346",
-                        "endColumns": "92,79,95,94,81,77,97,90,83,67,65,81,84,71,70,121",
-                        "endOffsets": "193,273,369,464,546,624,722,813,897,965,1031,1113,1198,1270,1341,1463"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,198,278,374,469,551,629,727,818,902,970,1036,1118,1203,1376,1447",
-                        "endColumns": "92,79,95,94,81,77,97,90,83,67,65,81,84,71,70,121",
-                        "endOffsets": "193,273,369,464,546,624,722,813,897,965,1031,1113,1198,1270,1442,1564"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\b97fb51fe222d80eee7606ee1000d7fa\\transformed\\core-1.8.0\\res\\values-et\\values-et.xml",
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\8d1b1adcd645198fb829b2cf7ac0cf07\\transformed\\core-1.8.0\\res\\values-et\\values-et.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,6 +18,23 @@
                         "startOffsets": "1275",
                         "endColumns": "100",
                         "endOffsets": "1371"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\frnkt\\.gradle\\caches\\transforms-3\\85b8354e734d6bf81b38e726373284d3\\transformed\\ui-1.2.0-rc03\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,198,278,374,469,551,629,727,818,902,970,1036,1118,1203,1275,1346",
+                        "endColumns": "92,79,95,94,81,77,97,90,83,67,65,81,84,71,70,121",
+                        "endOffsets": "193,273,369,464,546,624,722,813,897,965,1031,1113,1198,1270,1341,1463"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,198,278,374,469,551,629,727,818,902,970,1036,1118,1203,1376,1447",
+                        "endColumns": "92,79,95,94,81,77,97,90,83,67,65,81,84,71,70,121",
+                        "endOffsets": "193,273,369,464,546,624,722,813,897,965,1031,1113,1198,1270,1442,1564"
                     }
                 }
             ]

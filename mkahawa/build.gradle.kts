@@ -43,8 +43,9 @@ android {
     }
 
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.2.0"
+        kotlinCompilerExtensionVersion = "1.3.0-rc02"
     }
+    namespace = "com.tamzi.mkahawa"
 }
 
 

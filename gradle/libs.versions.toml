@@ -39,7 +39,7 @@ firebasePerfPlugin = "1.4.2"
 gmsPlugin = "4.4.2"
 googleOss = "17.1.0"
 googleOssPlugin = "0.10.6"
-hilt = "2.51.1"
+hilt = "2.52"
 hiltExt = "1.2.0"
 jacoco = "0.8.7"
 junit = "4.13.2"
@@ -66,6 +66,8 @@ turbine = "1.1.0"
 material = "1.12.0"
 junitJunit = "4.13.2"
 core = "1.13.1"
+junitJunitVersion = "4.12"
+monitor = "1.7.2"
 
 [bundles]
 androidx-compose-ui-test = ["androidx-compose-ui-test", "androidx-compose-ui-testManifest"]
@@ -179,7 +181,8 @@ ksp-gradlePlugin = { group = "com.google.devtools.ksp", name = "com.google.devto
 room-gradlePlugin = { group = "androidx.room", name = "room-gradle-plugin", version.ref = "room" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 junit-junit = { group = "junit", name = "junit", version.ref = "junitJunit" }
-androidx-core = { group = "androidx.core", name = "core", version.ref = "core" }
+junit-junit2 = { group = "junit", name = "junit", version.ref = "junitJunitVersion" }
+androidx-monitor = { group = "androidx.test", name = "monitor", version.ref = "monitor" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "androidGradlePlugin" }
@@ -203,5 +206,17 @@ roborazzi = { id = "io.github.takahirom.roborazzi", version.ref = "roborazzi" }
 room = { id = "androidx.room", version.ref = "room" }
 secrets = { id = "com.google.android.libraries.mapsplatform.secrets-gradle-plugin", version.ref = "secrets" }
 
+
 # Plugins defined by this project
+kahawalove-android-application = { id = "kahawalove.android.application", version = "unspecified" }
+kahawalove-android-application-compose = { id = "kahawalove.android.application.compose", version = "unspecified" }
+kahawalove-android-application-firebase = { id = "kahawalove.android.application.firebase", version = "unspecified" }
+kahawalove-android-feature = { id = "kahawalove.android.feature", version = "unspecified" }
+kahawalove-android-library = { id = "kahawalove.android.library", version = "unspecified" }
+kahawalove-android-library-compose = { id = "kahawalove.android.library.compose", version = "unspecified" }
+kahawalove-android-lint = { id = "kahawalove.android.lint", version = "unspecified" }
+kahawalove-android-room = { id = "kahawalove.android.room", version = "unspecified" }
+kahawalove-android-test = { id = "kahawalove.android.test", version = "unspecified" }
+kahawalove-hilt = { id = "kahawalove.hilt", version = "unspecified" }
+kahawalove-jvm-library = { id = "kahawalove.jvm.library", version = "unspecified" }
 

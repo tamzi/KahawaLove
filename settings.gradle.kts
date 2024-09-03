@@ -16,4 +16,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "KahawaLove"
 include(":app")
- 
+include(":mkahawa")
+include(":mkahawademo")

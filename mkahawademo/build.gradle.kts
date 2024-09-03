@@ -43,6 +43,11 @@ dependencies {
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.monitor)
 
+    testImplementation(libs.junit)
+    androidTestImplementation(libs.androidx.compose.ui.test)
+    androidTestImplementation(kotlin("test"))
+    androidTestImplementation(libs.androidx.ui.test.junit4)
+
 }
 
 dependencyGuard {

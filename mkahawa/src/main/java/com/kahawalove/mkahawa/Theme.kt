@@ -1,4 +1,4 @@
-package com.tamzi.mkahawa
+package com.kahawalove.mkahawa
 
 
 
@@ -11,8 +11,13 @@ import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
-import com.tamzi.mkahawa.atoms.color.*
-import com.tamzi.mkahawa.atoms.type.Typography
+import com.kahawalove.mkahawa.atoms.color.Pink40
+import com.kahawalove.mkahawa.atoms.color.Pink80
+import com.kahawalove.mkahawa.atoms.color.Purple40
+import com.kahawalove.mkahawa.atoms.color.Purple80
+import com.kahawalove.mkahawa.atoms.color.PurpleGrey40
+import com.kahawalove.mkahawa.atoms.color.PurpleGrey80
+import com.kahawalove.mkahawa.atoms.type.Typography
 
 private val DarkColorScheme = darkColorScheme(
     primary = Purple80,

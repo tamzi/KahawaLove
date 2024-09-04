@@ -1,4 +1,4 @@
-package com.tamzi.mkahawa.atoms.color
+package com.kahawalove.mkahawa.atoms.color
 
 import androidx.compose.ui.graphics.Color
 

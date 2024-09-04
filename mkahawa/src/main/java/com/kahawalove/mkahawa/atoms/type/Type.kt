@@ -1,4 +1,4 @@
-package com.tamzi.mkahawa.atoms.type
+package com.kahawalove.mkahawa.atoms.type
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

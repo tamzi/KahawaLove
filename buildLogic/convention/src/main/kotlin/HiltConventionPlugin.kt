@@ -1,5 +1,5 @@
 import com.android.build.gradle.api.AndroidBasePlugin
-import com.tamzi.kahawalove.libs
+import com.tamzi.app.libs
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 import org.gradle.kotlin.dsl.dependencies

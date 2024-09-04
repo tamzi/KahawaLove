@@ -9,17 +9,50 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="add conventions and build :)">
-      <change afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLintConventionPlugin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/JVMLibraryConventionPlugin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/AndroidCompose.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/AndroidInstrumentedTests.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/KotlinAndroid.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/ProjectExtensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="fix sample test failure">
+      <change afterPath="$PROJECT_DIR$/feature/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/menu/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/menu/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/menu/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/menu/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/menu/src/androidTest/java/com/kahawalove/menu/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/menu/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/menu/src/test/java/com/kahawalove/menu/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/offers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/offers/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/offers/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/offers/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/offers/src/androidTest/java/com/kahawalove/offers/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/offers/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/offers/src/test/java/com/kahawalove/offers/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/rewards/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/rewards/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/rewards/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/rewards/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/rewards/src/androidTest/java/com/kahawalove/rewards/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/rewards/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/rewards/src/test/java/com/kahawalove/rewards/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/tamzi/kahawalove/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/tamzi/app/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tamzi/kahawalove/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/kahawalove/app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/tamzi/kahawalove/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/tamzi/app/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationComposeConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationComposeConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationFirebaseConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationFirebaseConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidFeatureConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidFeatureConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryComposeConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryComposeConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidRoomConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidRoomConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidTestConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidTestConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/HiltConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/HiltConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/JVMLibraryConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/JVMLibraryConventionPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/AndroidCompose.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/AndroidCompose.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/AndroidInstrumentedTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/AndroidInstrumentedTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/KotlinAndroid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/KotlinAndroid.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/ProjectExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/ProjectExtensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +78,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tamzi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tamzi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tamzi/KahawaLove.git",
-    "accountId": "deb588fd-38e6-47cc-8744-ebf9d99320c6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tamzi/KahawaLove.git&quot;,
+    &quot;accountId&quot;: &quot;deb588fd-38e6-47cc-8744-ebf9d99320c6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lY04cqvVoB02sMbCfvUXDPmPN3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -68,6 +101,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Android App.app.executor": "Run",
+    "Android App.mkahawademo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -76,11 +110,11 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Volumes/ROOT/mimi/KahawaLove/buildLogic/convention/src/main/kotlin",
+    "last_opened_file_path": "/Volumes/ROOT/mimi/KahawaLove/gradle",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.ktlint-plugin",
     "show.migrate.to.gradle.popup": "false"
   },
   "keyToStringList": {
@@ -91,16 +125,221 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gradle" />
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa" />
       <recent name="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin" />
       <recent name="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove" />
       <recent name="$PROJECT_DIR$/buildLogic/convention" />
-      <recent name="$PROJECT_DIR$/buildLogic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/kahawalove/app" />
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa/atoms/type" />
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa/atoms/color" />
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa/atoms" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="KahawaLove.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feature.offers" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="KahawaLove.feature.offers.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feature.rewards" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="KahawaLove.feature.rewards.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mkahawademo" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="KahawaLove.mkahawademo.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -207,8 +446,51 @@
       <option name="project" value="LOCAL" />
       <updated>1725344341677</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add conventions and build refresh :)">
+      <option name="closed" value="true" />
+      <created>1725397478888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725397478888</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix sample test failure">
+      <option name="closed" value="true" />
+      <created>1725397890422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725397890422</updated>
+    </task>
+    <task id="LOCAL-00007" summary="depend on mkahwa as min theme">
+      <option name="closed" value="true" />
+      <created>1725398370232</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725398370232</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change colour and add int.gradle file">
+      <option name="closed" value="true" />
+      <created>1725398392310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725398392310</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hard reSet" />
@@ -216,6 +498,10 @@
     <MESSAGE value="Add compose compiler config" />
     <MESSAGE value="update gradle and java" />
     <MESSAGE value="add conventions and build :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add conventions and build :)" />
+    <MESSAGE value="add conventions and build refresh :)" />
+    <MESSAGE value="fix sample test failure" />
+    <MESSAGE value="depend on mkahwa as min theme" />
+    <MESSAGE value="change colour and add int.gradle file" />
+    <option name="LAST_COMMIT_MESSAGE" value="change colour and add int.gradle file" />
   </component>
 </project>

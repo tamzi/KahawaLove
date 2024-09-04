@@ -1,5 +1,5 @@
 import com.android.build.gradle.LibraryExtension
-import com.tamzi.kahawalove.libs
+import com.tamzi.app.libs
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 import org.gradle.kotlin.dsl.configure
@@ -17,7 +17,7 @@ class AndroidFeatureConventionPlugin : Plugin<Project> {
             }
 
             dependencies {
-                add("implementation", project(":core:ui"))
+                //add("implementation", project(":core:ui"))
                 add("implementation", project(":mkahawa"))
 
                 add("implementation", libs.findLibrary("androidx.hilt.navigation.compose").get())

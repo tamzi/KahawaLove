@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tamzi.kahawalove"
+    namespace = "com.kahawalove.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.tamzi.kahawalove"
+        applicationId = "com.kahawalove.app"
         versionCode = 1
         versionName = "0.0.01" // X.Y.ZZ; X = Major, Y = minor, Z = Patch level can be many digits
 

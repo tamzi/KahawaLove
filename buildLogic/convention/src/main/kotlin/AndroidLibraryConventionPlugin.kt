@@ -1,8 +1,8 @@
 import com.android.build.api.variant.LibraryAndroidComponentsExtension
 import com.android.build.gradle.LibraryExtension
-import com.tamzi.kahawalove.configureKotlinAndroid
-import com.tamzi.kahawalove.disableUnnecessaryAndroidTests
-import com.tamzi.kahawalove.libs
+import com.tamzi.app.configureKotlinAndroid
+import com.tamzi.app.disableUnnecessaryAndroidTests
+import com.tamzi.app.libs
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 import org.gradle.kotlin.dsl.configure

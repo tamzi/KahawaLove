@@ -1,5 +1,5 @@
 
-import com.tamzi.kahawalove.configureKotlinJvm
+import com.tamzi.app.configureKotlinJvm
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 

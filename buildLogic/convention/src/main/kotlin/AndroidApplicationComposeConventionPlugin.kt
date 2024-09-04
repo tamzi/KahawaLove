@@ -1,5 +1,5 @@
 import com.android.build.api.dsl.ApplicationExtension
-import com.tamzi.app.configureAndroidCompose
+import com.kahawalove.app.configureAndroidCompose
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 import org.gradle.kotlin.dsl.apply

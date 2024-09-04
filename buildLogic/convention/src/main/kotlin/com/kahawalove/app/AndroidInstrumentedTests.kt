@@ -1,4 +1,4 @@
-package com.tamzi.app
+package com.kahawalove.app
 
 import com.android.build.api.variant.LibraryAndroidComponentsExtension
 import org.gradle.api.Project

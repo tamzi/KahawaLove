@@ -9,51 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="fix sample test failure">
-      <change afterPath="$PROJECT_DIR$/feature/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/menu/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/menu/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/menu/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/menu/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/menu/src/androidTest/java/com/kahawalove/menu/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/menu/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/menu/src/test/java/com/kahawalove/menu/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/offers/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/offers/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/offers/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/offers/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/offers/src/androidTest/java/com/kahawalove/offers/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/offers/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/offers/src/test/java/com/kahawalove/offers/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/rewards/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/rewards/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/rewards/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/rewards/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/rewards/src/androidTest/java/com/kahawalove/rewards/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/rewards/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feature/rewards/src/test/java/com/kahawalove/rewards/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/tamzi/kahawalove/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/tamzi/app/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tamzi/kahawalove/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/kahawalove/app/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/tamzi/kahawalove/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/tamzi/app/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationComposeConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationComposeConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationFirebaseConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidApplicationFirebaseConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidFeatureConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidFeatureConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryComposeConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryComposeConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidLibraryConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidRoomConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidRoomConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidTestConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/AndroidTestConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/HiltConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/HiltConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/JVMLibraryConventionPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/JVMLibraryConventionPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/AndroidCompose.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/AndroidCompose.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/AndroidInstrumentedTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/AndroidInstrumentedTests.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/KotlinAndroid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/KotlinAndroid.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove/ProjectExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/app/ProjectExtensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-    </list>
+    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="updates to desc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +66,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Volumes/ROOT/mimi/KahawaLove/gradle",
+    "last_opened_file_path": "/Volumes/ROOT/mimi/KahawaLove/mkahawa/src/main",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
@@ -125,21 +81,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mkahawa/src/main" />
       <recent name="$PROJECT_DIR$/gradle" />
       <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa" />
       <recent name="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin" />
       <recent name="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/tamzi/kahawalove" />
-      <recent name="$PROJECT_DIR$/buildLogic/convention" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/java/com/kahawalove/app" />
-      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa/atoms/type" />
-      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa/atoms/color" />
-      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/tamzi/mkahawa/atoms" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mkahawademo/src/main/java/com/kahawalove/mkahawademo/screens" />
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa" />
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/type" />
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color" />
+      <recent name="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin/com/kahawalove/app" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android App.mkahawademo">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="KahawaLove.app.main" />
       <option name="DEPLOY" value="true" />
@@ -478,7 +434,55 @@
       <option name="project" value="LOCAL" />
       <updated>1725398392310</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add most features">
+      <option name="closed" value="true" />
+      <created>1725474505978</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725474505978</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update app package names">
+      <option name="closed" value="true" />
+      <created>1725475031611</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725475031611</updated>
+    </task>
+    <task id="LOCAL-00011" summary="MOVe to appropriate packages">
+      <option name="closed" value="true" />
+      <created>1725477761706</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725477761706</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adding color and font ideas">
+      <option name="closed" value="true" />
+      <created>1725481948821</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725481948821</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adding colour: Possible refactoring">
+      <option name="closed" value="true" />
+      <created>1725516494355</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725516494355</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updates to desc">
+      <option name="closed" value="true" />
+      <created>1725516763495</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725516763495</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,6 +506,13 @@
     <MESSAGE value="fix sample test failure" />
     <MESSAGE value="depend on mkahwa as min theme" />
     <MESSAGE value="change colour and add int.gradle file" />
-    <option name="LAST_COMMIT_MESSAGE" value="change colour and add int.gradle file" />
+    <MESSAGE value="add most features" />
+    <MESSAGE value="update app package names" />
+    <MESSAGE value="MOVe to appropriate packages" />
+    <MESSAGE value="Adding color and font ideas" />
+    <MESSAGE value="Adding color step 1" />
+    <MESSAGE value="Adding colour: Possible refactoring" />
+    <MESSAGE value="updates to desc" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates to desc" />
   </component>
 </project>

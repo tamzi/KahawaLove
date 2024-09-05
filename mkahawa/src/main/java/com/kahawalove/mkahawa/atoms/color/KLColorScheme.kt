@@ -4,15 +4,11 @@ import androidx.annotation.VisibleForTesting
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
 
-/**
- * Thinking....create the app colour scheme and not depend on material theme??
- *
- * */
-
-
+// Thinking....create the app colour scheme and not depend on material theme??
 
 /**
  * The default color theme for the app.
+ * This is used to create the [LightDefaultColorScheme]
  *
  * 1.`Primary`: KLGreen
  * - Serves as the primary color, used for key interface elements like buttons or navigation bars.
@@ -141,7 +137,105 @@ val LightDefaultColorScheme = lightColorScheme(
 
 
 /**
- * Dark theme color scheme
+ * Dark theme color scheme.
+ * This is used to create the [DarkDefaultColorScheme].
+ *
+ * 1.`Primary`: KLAccentGreen
+ *  - In a dark theme, a slightly brighter green like KLAccentGreen becomes the
+ *  primary color to maintain brand identity while standing out against darker backgrounds.
+ *
+ * 2.`onPrimary`: KLWhite
+ *  - White text and icons will maintain contrast on the primary green,
+ *  ensuring readability against the deep accent green.
+ *
+ * 3.`PrimaryContainer`: KLHouseGreen
+ *  - A darker green variant used for primary containers in the dark theme,
+ *      providing a softer but still brand-consistent background for primary UI elements.
+ *
+ * 4.`onPrimaryContainer`: KLWarmNeutral
+ *  - The warm neutral color provides a subtle contrast against the deep green,
+ *  making text or icons easy to read on primary containers.
+ *
+ * 5.`Secondary`: KLLightGreen
+ *  - For secondary elements, the light green brings balance and a touch of
+ *  brightness to the dark theme, acting as an accent color.
+ *
+ * 6.`onSecondary`: KLBlack
+ *  - Black text or icons on light green elements ensure clear readability,
+ *  offering good contrast against the light secondary color.
+ *
+ * 7.`SecondaryContainer`: KLGreen
+ *  - In the dark theme, using a deeper green like KLGreen for secondary containers provides
+ *  depth and richness without overpowering the interface.
+ *
+ * 8.`onSecondaryContainer`: KLCoolNeutral
+ *  - Light cool neutral text or icons contrast well with the deeper green,
+ *  ensuring readability on secondary containers.
+ *
+ * 9.`Tertiary`: KLLightBlack
+ * This muted black tone works well as a tertiary color, providing a neutral accent that
+ * adds depth to the interface.
+ *
+ * 10.`onTertiary`: KLWhite
+ *  - White text ensures visibility and legibility when placed on the darker tertiary elements,
+ *  maintaining good contrast.
+ *
+ * 11.`TertiaryContainer`: KLAccentGreen
+ *  - The brighter accent green serves as a tertiary container background,
+ *  bringing some vibrancy to darker sections of the UI.
+ *
+ * 12.`onTertiaryContainer`: KLWhite
+ *  - White text or icons ensure legibility on the vibrant tertiary container, maintaining clarity and focus.
+ *
+ * 13.`Error`: KLBrightRed
+ *  - Error messages in dark mode remain consistent with bright red, standing out against
+ *  the dark background while signaling attention.
+ *
+ * 14.`onError`: KLWhite
+ *  - White text ensures readability when placed over error states, providing the necessary
+ *  contrast against the bright red.
+ *
+ * 15.`ErrorContainer`: KLDarkRed
+ *  - A darker red can be used for error containers in the dark theme, blending better with the dark surroundings while still signaling an error state.
+ *
+ * 16.`onErrorContainer`: KLLightRed
+ *  - A lighter red on darker error containers ensures text or icon readability in error-related areas.
+ *
+ * 17.`Background`: KLBlack
+ *  - Black is the ideal background for dark themes, providing a deep, neutral base for
+ *  other elements to stand out.
+ *
+ * 18.`onBackground`: KLWarmNeutral
+ *  - Warm neutral text or icons create a softer contrast against the black background,
+ *  ensuring readability while maintaining a welcoming tone.
+ *
+ * 19.`Surface`: KLLightBlack
+ *  - This lighter black tone serves as a surface color, creating subtle layers and depth without
+ *  making the UI too stark.
+ *
+ * 20.`onSurface`: KLWhite
+ *  - White text or icons on dark surface elements ensure maximum legibility and clarity,
+ *  providing necessary contrast in a dark theme.
+ *
+ * 21.`SurfaceVariant`: KLGreen
+ *  - For surface variants, the primary green works well to provide additional color depth and
+ *  maintain brand recognition.
+ *
+ * 22.`onSurfaceVariant`: KLCoolNeutral
+ *  - The cool neutral color contrasts with the green surface variant,
+ *  offering clarity while maintaining the theme's dark aesthetic.
+ *
+ * 23.`InverseSurface`: KLCoolNeutral
+ *  - In dark mode, using a lighter neutral for inverse surfaces provides contrast with
+ *  the predominantly dark background, making elements like cards or dialogs stand out.
+ *
+ * 24.`InverseOnSurface`: KLBlack
+ *  - Black text or icons on lighter inverse surfaces ensures legibility while maintaining
+ *  the overall feel of the dark theme.
+ *
+ * 25.`Outline`: KLGreen
+ *  - Outlines in a deep green will maintain subtle structure while adding a touch of color
+ *  to the dark theme, keeping it in line with the brand aesthetic.
  */
 
 @VisibleForTesting

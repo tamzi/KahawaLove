@@ -68,6 +68,7 @@ internal val KLSummerYellow = Color(0xFFf0E0B0)
 internal val KLSoftPink = Color(0xFFf0D4DC)
 internal val KLBrightGreen = Color(0xFF4CA06F)
 internal val KLVibrantOrange = Color(0xFFDC714E)
+internal val KLLightOrange = Color(0xFFFCE6E2)
 
 
 /** Shades of Nitro:
@@ -112,6 +113,6 @@ internal val KLBurgandy = Color(0xFF8882F4)
 
 internal val KLBrown = Color(0xFF9D5217)
 internal val KLOrange = Color(0xFFC99543)
-internal val KLLightOrange = Color(0xFFDBB781)
+internal val KLDarkerLightOrange = Color(0xFFDBB781)
 internal val KLGrey = Color(0xFFE4DFD7)
 internal val KLLightGrey = Color(0xFFF4F0E3)

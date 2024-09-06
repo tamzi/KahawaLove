@@ -4,11 +4,16 @@ import androidx.annotation.VisibleForTesting
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
 
-// Thinking....create the app colour scheme and not depend on material theme??
+// Thinking....
+// create the app colour scheme and not depend on material theme??
+// Foundation would make sense to depend on material theme but not the app colour scheme
+// drop `lightColorScheme` and `darkColorScheme` and use `SPECColorScheme` instead, where SPEC is Spring, Summer, Nitro, Fall?
+// Use WorkManger to guarantee the app colour scheme is always available even if the app is in background.
+
 
 /**
  * The default color theme for the app.
- * This is used to create the [LightDefaultColorScheme]
+ * This is used to create the [LightDefaultColorScheme] which acts as the default color scheme for the light theme.
  *
  * 1.`Primary`: KLGreen
  * - Serves as the primary color, used for key interface elements like buttons or navigation bars.
@@ -138,6 +143,7 @@ val LightDefaultColorScheme = lightColorScheme(
 
 /**
  * Dark theme color scheme.
+ * We use the above light theme color scheme to create the dark theme color scheme.
  * This is used to create the [DarkDefaultColorScheme].
  *
  * 1.`Primary`: KLAccentGreen

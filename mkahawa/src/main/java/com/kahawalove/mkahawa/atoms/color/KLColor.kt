@@ -2,14 +2,21 @@ package com.kahawalove.mkahawa.atoms.color
 
 import androidx.compose.ui.graphics.Color
 
+// Thinking....create the app colour scheme and not depend on material theme??
+// Foundation would make sense to depend on material theme but not the app colour scheme on iteration 2
+
+
 /** Note on the color scheme:
  * All app backgrounds will be KLWarmNeutral
  *
  * The shades colours are for the seasons that we are in.
+ * The Schemes are for the different seasons.
  * The idea is to have a base color and then have shades of that color depending on the season.
  * The base color will be the main color of the season.
- * The shades will be used for the different elements in the app.
  *
+ *
+ * All brand colours for all occasions are defined here.
+ * They are not accessible outside this file to be called individually
  *
  *
 */
@@ -96,9 +103,13 @@ internal val KLBurgandy = Color(0xFF8882F4)
 
 
 
+/**
+ * Others:
+ *
+ * These are other shades of brown we may need to use
+ * BUT have not been assigned to a season or schemeColor
+ * */
 
-
-//Others
 internal val KLBrown = Color(0xFF9D5217)
 internal val KLOrange = Color(0xFFC99543)
 internal val KLLightOrange = Color(0xFFDBB781)

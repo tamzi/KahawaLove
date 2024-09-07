@@ -99,6 +99,7 @@ internal val KLNitroLightRed = Color(0xFFFFB3A6)
  *
  * */
 internal val KLRust = Color(0xFF9D5116)
+internal val KLLightRust = Color(0xFFF6A68A)
 internal val KLNeutralPink = Color(0xFFEBCABC)
 internal val KLAlmostPumpkin = Color(0xFFE44C2C)
 internal val KLMustard = Color(0xFFA17700)

@@ -85,6 +85,8 @@ internal val KLBrickRed = Color(0xFFFF6740)
 internal val KLNitroGreen = Color(0xFF3ECEA9)
 internal val KLNitroCoral = Color(0xFFE76069)
 internal val KLBrightPurple = Color(0xFF8882F4)
+internal val KLNitroLightRed = Color(0xFFFFB3A6)
+
 
 
 /** Shades of Fall:

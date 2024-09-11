@@ -9,6 +9,10 @@ import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
 import com.kahawalove.mkahawa.atoms.color.*
+import com.kahawalove.mkahawa.atoms.color.shades.ShadesOfFallColorScheme
+import com.kahawalove.mkahawa.atoms.color.shades.ShadesOfNitroColorScheme
+import com.kahawalove.mkahawa.atoms.color.shades.ShadesOfSpringColorScheme
+import com.kahawalove.mkahawa.atoms.color.shades.ShadesOfSummerColorScheme
 import com.kahawalove.mkahawa.atoms.type.Typography
 
 

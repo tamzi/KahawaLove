@@ -1,7 +1,18 @@
-package com.kahawalove.mkahawa.atoms.color
+package com.kahawalove.mkahawa.atoms.color.shades
 
 import androidx.annotation.VisibleForTesting
 import androidx.compose.material3.lightColorScheme
+import com.kahawalove.mkahawa.atoms.color.KLAlmostPumpkin
+import com.kahawalove.mkahawa.atoms.color.KLBlack
+import com.kahawalove.mkahawa.atoms.color.KLBurgandy
+import com.kahawalove.mkahawa.atoms.color.KLGreen
+import com.kahawalove.mkahawa.atoms.color.KLHouseGreen
+import com.kahawalove.mkahawa.atoms.color.KLLightGreen
+import com.kahawalove.mkahawa.atoms.color.KLLightRust
+import com.kahawalove.mkahawa.atoms.color.KLMustard
+import com.kahawalove.mkahawa.atoms.color.KLNeutralPink
+import com.kahawalove.mkahawa.atoms.color.KLRust
+import com.kahawalove.mkahawa.atoms.color.KLWhite
 
 /**
  *

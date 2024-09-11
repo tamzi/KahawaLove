@@ -1,7 +1,18 @@
-package com.kahawalove.mkahawa.atoms.color
+package com.kahawalove.mkahawa.atoms.color.shades
 
 import androidx.annotation.VisibleForTesting
 import androidx.compose.material3.lightColorScheme
+import com.kahawalove.mkahawa.atoms.color.KLBrightGreen
+import com.kahawalove.mkahawa.atoms.color.KLGreen
+import com.kahawalove.mkahawa.atoms.color.KLHouseGreen
+import com.kahawalove.mkahawa.atoms.color.KLLightGreen
+import com.kahawalove.mkahawa.atoms.color.KLLightOrange
+import com.kahawalove.mkahawa.atoms.color.KLPeach
+import com.kahawalove.mkahawa.atoms.color.KLSoftPink
+import com.kahawalove.mkahawa.atoms.color.KLSummerMauve
+import com.kahawalove.mkahawa.atoms.color.KLSummerYellow
+import com.kahawalove.mkahawa.atoms.color.KLVibrantOrange
+import com.kahawalove.mkahawa.atoms.color.KLWhite
 
 /**
  * Color scheme for the Summer season

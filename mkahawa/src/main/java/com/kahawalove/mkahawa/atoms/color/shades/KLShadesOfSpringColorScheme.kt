@@ -1,7 +1,23 @@
-package com.kahawalove.mkahawa.atoms.color
+package com.kahawalove.mkahawa.atoms.color.shades
 
 import androidx.annotation.VisibleForTesting
 import androidx.compose.material3.lightColorScheme
+import com.kahawalove.mkahawa.atoms.color.KLBlush
+import com.kahawalove.mkahawa.atoms.color.KLBrightRed
+import com.kahawalove.mkahawa.atoms.color.KLDarkRed
+import com.kahawalove.mkahawa.atoms.color.KLGoldenrod
+import com.kahawalove.mkahawa.atoms.color.KLGreen
+import com.kahawalove.mkahawa.atoms.color.KLHouseGreen
+import com.kahawalove.mkahawa.atoms.color.KLLightBlack
+import com.kahawalove.mkahawa.atoms.color.KLLightBlue
+import com.kahawalove.mkahawa.atoms.color.KLLightGreen
+import com.kahawalove.mkahawa.atoms.color.KLLightRed
+import com.kahawalove.mkahawa.atoms.color.KLSpringCoral
+import com.kahawalove.mkahawa.atoms.color.KLSpringGreen
+import com.kahawalove.mkahawa.atoms.color.KLSpringYellow
+import com.kahawalove.mkahawa.atoms.color.KLTeal
+import com.kahawalove.mkahawa.atoms.color.KLTurquoise
+import com.kahawalove.mkahawa.atoms.color.KLWhite
 
 // Open Questions captured in @see:KLColor
 

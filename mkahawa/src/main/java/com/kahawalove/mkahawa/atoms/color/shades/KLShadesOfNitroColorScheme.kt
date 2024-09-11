@@ -1,7 +1,17 @@
-package com.kahawalove.mkahawa.atoms.color
+package com.kahawalove.mkahawa.atoms.color.shades
 
 import androidx.annotation.VisibleForTesting
 import androidx.compose.material3.lightColorScheme
+import com.kahawalove.mkahawa.atoms.color.KLBlack
+import com.kahawalove.mkahawa.atoms.color.KLBrickRed
+import com.kahawalove.mkahawa.atoms.color.KLBrightPurple
+import com.kahawalove.mkahawa.atoms.color.KLGreen
+import com.kahawalove.mkahawa.atoms.color.KLHouseGreen
+import com.kahawalove.mkahawa.atoms.color.KLLightGreen
+import com.kahawalove.mkahawa.atoms.color.KLNitroCoral
+import com.kahawalove.mkahawa.atoms.color.KLNitroGreen
+import com.kahawalove.mkahawa.atoms.color.KLNitroLightRed
+import com.kahawalove.mkahawa.atoms.color.KLWhite
 
 /**
  * Default color scheme for the Nitro season scheme has a base already existing from

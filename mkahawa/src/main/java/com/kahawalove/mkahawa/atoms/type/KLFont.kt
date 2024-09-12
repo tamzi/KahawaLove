@@ -5,20 +5,20 @@ import androidx.compose.ui.text.font.FontFamily
 import com.tamzi.mkahawa.R
 
 /**
- *  Typography
- * a. Sodo Sans font family:
+ *  ### Typography
+ * ##### Sodo Sans font family:
  *  - This is used for body copy.
  *  - Weight: Thin, Light, Regular, SemiBold, Bold
  *  - Size: Small, Medium, Large
 
  *
- * b. DTPhudu Font Family
+ * ##### DTPhudu Font Family
  *  - is the impactful typeface.
  *  - its condensed appearance can lend itself well to functional headlines.
  *
- *  c. Futura Font Family
+ * ##### Futura Font Family
  *
- *  d. Metropolis Font Family
+ * ##### Metropolis Font Family
  *  - Metropolis is a modern, geometric sans-serif typeface.
  *  - It has a clean, minimalistic design that is perfect for a variety of projects.
  *  - Weight: Thin, Light, Regular, SemiBold, Bold

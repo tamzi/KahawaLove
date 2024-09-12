@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="Add fonts">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/Theme.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/KLShadesOfFallColorScheme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/shades/KLShadesOfFallColorScheme.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/KLShadesOfNitroColorScheme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/shades/KLShadesOfNitroColorScheme.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/KLShadesOfSpringColorScheme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/shades/KLShadesOfSpringColorScheme.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/KLShadesOfSummerColorScheme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/shades/KLShadesOfSummerColorScheme.kt" afterDir="false" />
-    </list>
+    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="moved shades of color" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -570,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725715233884</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="moved shades of color">
+      <option name="closed" value="true" />
+      <created>1726089072495</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726089072495</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -609,6 +609,7 @@
     <MESSAGE value="Add Fall colorScheme" />
     <MESSAGE value="Add mkahawa demo screens" />
     <MESSAGE value="Add fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fonts" />
+    <MESSAGE value="moved shades of color" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved shades of color" />
   </component>
 </project>

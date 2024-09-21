@@ -2,31 +2,29 @@ package com.kahawalove.mkahawa.utils.workers
 
 
 import android.content.Context
-import androidx.work.Worker
+import androidx.datastore.preferences.core.edit
+import androidx.work.CoroutineWorker
 import androidx.work.WorkerParameters
-import java.time.LocalDate
-import java.time.Month
+import com.kahawalove.mkahawa.utils.Season
+import com.kahawalove.mkahawa.utils.datastore.PreferencesKeys.CURRENT_SEASON
+import com.kahawalove.mkahawa.utils.datastore.dataStore
 
 class SeasonWorker(
     context: Context,
     workerParams: WorkerParameters
-) : Worker(context, workerParams) {
+) : CoroutineWorker(context, workerParams) {
 
-    override fun doWork(): Result {
-        val currentSeason = getCurrentSeason()
-        val sharedPreferences = applicationContext.getSharedPreferences("theme_prefs", Context.MODE_PRIVATE)
-        sharedPreferences.edit().putString("current_season", currentSeason).apply()
-        return Result.success()
-    }
+    private val dataStore = context.dataStore
 
-    private fun getCurrentSeason(): String {
-        val currentMonth = LocalDate.now().month
-        return when (currentMonth) {
-            Month.DECEMBER, Month.JANUARY, Month.FEBRUARY -> "Winter"
-            Month.MARCH, Month.APRIL, Month.MAY -> "Spring"
-            Month.JUNE, Month.JULY, Month.AUGUST -> "Summer"
-            Month.SEPTEMBER, Month.OCTOBER, Month.NOVEMBER -> "Fall"
-            else -> "Unknown"
+    override suspend fun doWork(): Result {
+        return try {
+            val currentSeason = Season.getCurrentSeason()
+            dataStore.edit { settings ->
+                settings[CURRENT_SEASON] = currentSeason.name
+            }
+            Result.success()
+        } catch (e: Exception) {
+            Result.failure()
         }
     }
 }

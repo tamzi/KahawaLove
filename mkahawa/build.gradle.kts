@@ -40,6 +40,8 @@ dependencies {
     api(libs.androidx.compose.material3.navigationSuite)
     api(libs.androidx.compose.runtime)
     api(libs.androidx.compose.ui.util)
+    api(libs.androidx.dataStore)
+    implementation(libs.androidx.datastore.preferences)
 
     implementation(libs.coil.kt.compose)
     implementation(libs.androidx.work.ktx)

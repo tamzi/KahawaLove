@@ -4,10 +4,9 @@ plugins {
 }
 
 android {
-    namespace = "com.kahawalove.news"
+    namespace = "com.kahawalove.feature.news"
 }
 
 dependencies {
-    implementation(project(":mkahawa"))
     androidTestImplementation(libs.bundles.androidx.compose.ui.test)
 }

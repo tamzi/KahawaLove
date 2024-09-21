@@ -9,13 +9,25 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/utils/Season.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/utils/datastore/DataStoreUtil.kt" afterDir="false" />
+    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="add dataStore amd upgrade gradle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkahawa/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/mkahawa/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/utils/workers/SeasonWorker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/utils/workers/SeasonWorker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/about/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/about/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/about/src/androidTest/java/com/kahawalove/about/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/feature/about/src/androidTest/java/com/kahawalove/feature/about/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/about/src/test/java/com/kahawalove/about/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/feature/about/src/test/java/com/kahawalove/feature/about/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/auth/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/auth/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/cart/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/cart/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/faq/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/faq/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/home/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/home/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/menu/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/menu/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/news/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/news/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/offers/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/offers/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/onboarding/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/onboarding/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/order/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/order/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/products/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/products/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/profile/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/profile/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/rewards/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/rewards/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/store/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/store/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/wallet/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/wallet/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +109,14 @@
       <recent name="$PROJECT_DIR$/buildLogic/convention/src/main/kotlin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/utils/datastore" />
       <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/color/shades" />
       <recent name="$PROJECT_DIR$/mkahawa/src/main/res/font" />
       <recent name="$PROJECT_DIR$/mkahawademo/src/main/java/com/kahawalove/mkahawademo/screens" />
       <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa" />
-      <recent name="$PROJECT_DIR$/mkahawa/src/main/java/com/kahawalove/mkahawa/atoms/type" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.mkahawademo">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="KahawaLove.app.main" />
       <option name="DEPLOY" value="true" />
@@ -587,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726170644532</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add dataStore amd upgrade gradle">
+      <option name="closed" value="true" />
+      <created>1726945712078</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726945712078</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -602,7 +622,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new toml file" />
     <MESSAGE value="Add compose compiler config" />
     <MESSAGE value="update gradle and java" />
     <MESSAGE value="add conventions and build :)" />
@@ -627,6 +646,7 @@
     <MESSAGE value="Add fonts" />
     <MESSAGE value="moved shades of color" />
     <MESSAGE value="Added seasoned theming concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added seasoned theming concepts" />
+    <MESSAGE value="add dataStore amd upgrade gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dataStore amd upgrade gradle" />
   </component>
 </project>

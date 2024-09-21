@@ -4,10 +4,9 @@ plugins {
 }
 
 android {
-    namespace = "com.kahawalove.menu"
+    namespace = "com.kahawalove.feature.menu"
 }
 
 dependencies {
-    implementation(project(":mkahawa"))
     androidTestImplementation(libs.bundles.androidx.compose.ui.test)
 }

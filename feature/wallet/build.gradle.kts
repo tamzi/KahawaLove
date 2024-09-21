@@ -4,10 +4,9 @@ plugins {
 }
 
 android {
-    namespace = "com.kahawalove.wallet"
+    namespace = "com.kahawalove.feature.wallet"
 }
 
 dependencies {
-    implementation(project(":mkahawa"))
     androidTestImplementation(libs.bundles.androidx.compose.ui.test)
 }

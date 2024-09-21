@@ -1,7 +1,6 @@
-package com.kahawalove.about
+package com.kahawalove.feature.about
 
 import org.junit.Test
-
 import org.junit.Assert.*
 
 /**

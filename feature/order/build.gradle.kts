@@ -4,10 +4,9 @@ plugins {
 }
 
 android {
-    namespace = "com.kahawalove.order"
+    namespace = "com.kahawalove.feature.order"
 }
 
 dependencies {
-    implementation(project(":mkahawa"))
     androidTestImplementation(libs.bundles.androidx.compose.ui.test)
 }

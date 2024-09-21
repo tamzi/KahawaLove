@@ -4,10 +4,9 @@ plugins {
 }
 
 android {
-    namespace = "com.kahawalove.rewards"
+    namespace = "com.kahawalove.feature.rewards"
 }
 
 dependencies {
-    implementation(project(":mkahawa"))
     androidTestImplementation(libs.bundles.androidx.compose.ui.test)
 }

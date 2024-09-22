@@ -9,26 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="add dataStore amd upgrade gradle">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/about/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/about/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/about/src/androidTest/java/com/kahawalove/about/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/feature/about/src/androidTest/java/com/kahawalove/feature/about/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/about/src/test/java/com/kahawalove/about/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/feature/about/src/test/java/com/kahawalove/feature/about/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/auth/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/auth/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/cart/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/cart/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/faq/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/faq/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/home/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/home/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/menu/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/menu/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/news/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/news/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/offers/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/offers/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/onboarding/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/onboarding/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/order/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/order/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/products/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/products/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/profile/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/profile/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/rewards/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/rewards/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/store/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/store/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/wallet/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/feature/wallet/build.gradle.kts" afterDir="false" />
-    </list>
+    <list default="true" id="f7152e74-e67b-437b-a960-2e332b366864" name="Changes" comment="reArrange features" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,138 +100,6 @@
   <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="KahawaLove.app.main" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
-      <option name="CLEAR_APP_STORAGE" value="false" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Hybrid>
-      <Java>
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Java>
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="feature.offers" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="KahawaLove.feature.offers.main" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
-      <option name="CLEAR_APP_STORAGE" value="false" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Hybrid>
-      <Java>
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Java>
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="feature.rewards" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="KahawaLove.feature.rewards.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -607,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726945712078</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="reArrange features">
+      <option name="closed" value="true" />
+      <created>1726955884366</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726955884366</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -622,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add compose compiler config" />
     <MESSAGE value="update gradle and java" />
     <MESSAGE value="add conventions and build :)" />
     <MESSAGE value="add conventions and build refresh :)" />
@@ -647,6 +503,7 @@
     <MESSAGE value="moved shades of color" />
     <MESSAGE value="Added seasoned theming concepts" />
     <MESSAGE value="add dataStore amd upgrade gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dataStore amd upgrade gradle" />
+    <MESSAGE value="reArrange features" />
+    <option name="LAST_COMMIT_MESSAGE" value="reArrange features" />
   </component>
 </project>

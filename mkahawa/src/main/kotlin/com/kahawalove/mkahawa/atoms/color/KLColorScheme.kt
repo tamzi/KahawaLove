@@ -111,7 +111,7 @@ import androidx.compose.material3.lightColorScheme
  *
  * */
 
-@VisibleForTesting
+
 val LightDefaultColorScheme = lightColorScheme(
     primary = KLGreen,
     onPrimary = KLWhite,
@@ -244,7 +244,7 @@ val LightDefaultColorScheme = lightColorScheme(
  *  to the dark theme, keeping it in line with the brand aesthetic.
  */
 
-@VisibleForTesting
+
 val DarkDefaultColorScheme = darkColorScheme(
     primary = KLGreen,
     onPrimary = KLWhite,

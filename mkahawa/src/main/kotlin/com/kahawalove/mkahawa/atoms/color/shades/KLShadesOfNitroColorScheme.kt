@@ -127,7 +127,7 @@ import com.kahawalove.mkahawa.atoms.color.KLWhite
  *    - Adds structure to components without overpowering them.
  *
  */
-@VisibleForTesting
+
 val ShadesOfNitroColorScheme = lightColorScheme(
     primary = KLGreen,
     onPrimary = KLLightGreen,

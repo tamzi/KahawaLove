@@ -142,7 +142,7 @@ import com.kahawalove.mkahawa.atoms.color.KLWhite
  */
 
 
-@VisibleForTesting
+
 val ShadesOfFallColorScheme = lightColorScheme(
     primary = KLGreen,
     onPrimary = KLLightGreen,

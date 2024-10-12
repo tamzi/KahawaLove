@@ -131,7 +131,7 @@ import com.kahawalove.mkahawa.atoms.color.KLWhite
  *
  */
 
-@VisibleForTesting
+
 val ShadesOfSummerColorScheme = lightColorScheme(
     primary = KLGreen,
     onPrimary = KLLightGreen,

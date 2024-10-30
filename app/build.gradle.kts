@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.kahawalove.app"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.kahawalove.app"
